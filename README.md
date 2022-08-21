@@ -1,3 +1,8 @@
+dio.me
+perdi as tadas, estou trabalhando no desenvolvimento...
+
+
+
 # Explorando Padrões de Projetos na Prática com Java
 
 ## Digital Innovation One: Labs
